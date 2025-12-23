@@ -1,0 +1,2 @@
+Pizza,150,
+Mango Juice,60/-,image1.jpg
